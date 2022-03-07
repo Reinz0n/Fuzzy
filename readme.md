@@ -1,13 +1,13 @@
-NAMA  : Mikhael Rivandio Rekzadianto\n
-NIM   : 123200078
+NAMA&emsp;: Mikhael Rivandio Rekzadianto\
+NIM&emsp;&emsp;: 123200078
 
 Berikut merupakan program fuzzy tentang rekomendasi untuk berlibur. Program ini memiliki input seperti cuaca, kepadatan jalan, jarak tempat liburan, dan jumlah kasus covid-19. Keluaran dari program ini berupa skor parameter liburan, rekomendasi jenis kendaraan, dan perkiraan durasi waktu yang dipakai saat berlibur.
 
-Input
-Cuaca                 : 4
-Kepadatan Jalan       : 8
-Jarak Tempat Liburan  : 5
-Kasus Covid-19        : 2
+Input\
+Cuaca&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;: 4\
+Kepadatan Jalan&emsp;&emsp;&emsp;: 8\
+Jarak Tempat Liburan&nbsp;&ensp;: 5\
+Kasus Covid-19&emsp;&emsp;&emsp;&nbsp;: 2
 
 ![1_Skor](https://user-images.githubusercontent.com/100062773/157017165-83915428-5567-4419-b04e-05650e1d3865.png)
 ![2_Skor](https://user-images.githubusercontent.com/100062773/157017218-4d785e9b-9088-4e84-a172-6c34521f4ad4.png)
